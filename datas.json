@@ -32,108 +32,84 @@
             "types": "Spirit",
             "strength": "None",
             "weakness": "Smudge stick",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [5, 6, 3]
         },
         {
             "id_ghost": 2,
             "types": "Wraith",
             "strength": "Doesn't touch the ground",
             "weakness": "Salt",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [6, 1, 5]
         },
         {
             "id_ghost": 3,
             "types": "Phantom",
             "strength": "Sanity drops when look at it",
             "weakness": "Disappears when a picture is taken",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [2, 4, 1]
         },
         {
             "id_ghost": 4,
             "types": "Poltergeist",
             "strength": "Throws multiple objects",
             "weakness": "Empty room",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [5, 6, 4]
         },
         {
             "id_ghost": 5,
             "types": "Banshee",
             "strength": "Only one target at a time",
             "weakness": "Crucifix",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [2, 6, 1]
         },
         {
             "id_ghost": 6,
             "types": "Jinn",
             "strength": "Move faster when light is on",
             "weakness": "Turning the power off limits his ability",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [5, 4, 2]
         },
         {
             "id_ghost": 7,
             "types": "Mare",
             "strength": "Darkness is is friend",
             "weakness": "Turning on the light",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [5, 4, 1]
         },
         {
             "id_ghost": 8,
             "types": "Revenant",
             "strength": "Hunt fast",
             "weakness": "Hiding slow him",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [2, 6, 3]
         },
         {
             "id_ghost": 9,
             "types": "Shade",
             "strength": "Shy, hard to find",
             "weakness": "Doesn't hunt when multiple people",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [2, 4, 3]
         },
         {
             "id_ghost": 10,
             "types": "Demon",
             "strength": "Attack more",
             "weakness": "Sanity doesn't drop with Ouija board",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [5, 3, 1]
         },
         {
             "id_ghost": 11,
             "types": "Yurei",
             "strength": "Sanity drops faster",
             "weakness": "Smudge the room",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [4, 3, 1]
         },
         {
             "id_ghost": 12,
             "types": "Oni",
             "strength": "More active than most",
             "weakness": "Fast identification",
-            "clue_1": [],
-            "clue_2": [],
-            "clue_3": []
+            "cluesG": [2, 5, 3]
         }
     ]
 }
