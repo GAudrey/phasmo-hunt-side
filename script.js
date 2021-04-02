@@ -85,7 +85,7 @@ const table = document.querySelector('table');
 fetch('./datas.json') // pas de ; car arrête l'instruction
     .then(response => response.json()) // pas de ; car arrête l'instruction
     .then(datas => {
-        
+  
         selects.forEach(select => {
             let option = document.createElement('option');
             option.textContent = '- Select a clue';
@@ -119,7 +119,7 @@ fetch('./datas.json') // pas de ; car arrête l'instruction
             tdWeakness.textContent = ghost.weakness;
             tr.appendChild(tdWeakness);
         })
-       
+
     }) // pas de ; car arrête l'instruction
     .catch(error => {
         console.log('There was an error!', error);
